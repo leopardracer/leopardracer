@@ -1,5 +1,6 @@
 Hi everyone! I'm leopardracer! 👋
-**Backend Developer | Blockchain Enthusiast**
+
+Backend Developer | Blockchain Enthusiast**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leopardracer&show_icons=true)
 
