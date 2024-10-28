@@ -1,7 +1,7 @@
 markdownCopy code# Hello! I`m leopardracer! 👋
 **Backend Developer | Blockchain Enthusiast**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leoparracer&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leopardacer&show_icons=true)
 
 
 
