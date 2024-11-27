@@ -13,3 +13,5 @@
 [![Debank](https://img.shields.io/badge/-Debank-orange?style=flat&logo=DeBank
 )](https://debank.com/profile/0xdcbc82c8081376aa2d107a01e9f9f4fb57ac0090)
 [![Email](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail)](graters.placket.04@icloud.com)
+
+[![](https://visitcount.itsvg.in/api?id=leopardracer&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
