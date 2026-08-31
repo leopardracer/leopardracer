@@ -4,7 +4,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 
-### 👋 Hi, everyone! I'm IHOR! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefba414.GIF" width="40" height="40" alt="ETH" /> <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+### 👋 Hi, everyone! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefba414.GIF" width="40" height="40" alt="ETH" /> <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ##### 🌟 About Me: Web3 + Ethereum Builder focusing on emerging markets ☕
 ##### ⚙️ Some of the technologies I have worked with:
