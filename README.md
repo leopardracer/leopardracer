@@ -6,7 +6,7 @@
 
 ### 👋 Hi, everyone! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefba414.GIF" width="40" height="40" alt="ETH" /> <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-##### 🌟 About Me: Web3 + Ethereum Builder focusing on emerging markets ☕
+##### 🌟 About Me: fired from Meta Superintelligence Labs. what i found in Behemoth's training pipeline wasn't supposed to be seen. full breakdown coming soon
 ##### ⚙️ Some of the technologies I have worked with:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
